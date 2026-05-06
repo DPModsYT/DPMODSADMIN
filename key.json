@@ -1,0 +1,26 @@
+{
+  "AppConfig": {
+    "bannerText": "Awaiting Authentication",
+    "getKeyText": "Get Token ↗",
+    "getKeyUrl": "https://mratul.in",
+    "imageUrl": "https://raw.githubusercontent.com/DPModsYT/firebasedemopanel/refs/heads/main/Firefly%2020260417084915.png",
+    "loginBtnText": "AUTHENTICATE",
+    "maintenanceMode": false,
+    "maintenanceMsg": "DPMods server is temporarily down for maintenance.",
+    "statusBadge": "SECURE",
+    "tags": [
+      "No Crash",
+      "DPMods V2.3",
+      "Stable",
+      "Global"
+    ],
+    "title": "DPMods",
+    "updateMsg": "New DPMods Injector v2.1 available! Fixes crash bugs.",
+    "updateRequired": false,
+    "updateUrl": "https://your-download-link.com"
+  },
+  "BannedHWIDs": {
+    "EXAMPLE_BANNED_HWID": "Attempted Smali Bypass"
+  },
+  "Keys": {}
+}
